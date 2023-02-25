@@ -40,7 +40,7 @@ taxonomies:
       enabled: false
       name: Discover Life Taxonomy
     - id: batnames
-#      enabled: false
+      enabled: false
       name: Bat Names 
     - id: col
       enabled: true
